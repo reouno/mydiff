@@ -1,5 +1,7 @@
 # mydiff
 
+![mydiff sample gif](https://github.com/reouno/mydiff/blob/master/data/mydiff-sample.gif)
+
 ### Tools
 
 - Haskell stack
